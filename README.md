@@ -1,5 +1,6 @@
 ###WebAPI
-OHDSI WebAPI contains all OHDSI services that can be called from OHDSI applications
+OHDSI WebAPI contains all OHDSI services that can be called from OHDSI applications.
+
 #### Getting Started
 ##### Compilation
 Compiling the WebAPI project will require Maven.  Any Maven compliant IDE will be able to resolve all dependencies and compile the project.
